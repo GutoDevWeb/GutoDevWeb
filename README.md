@@ -8,6 +8,7 @@ Meu nome é Guilherme Augusto e estou dando os primeiros passos na área de Dese
 <p align="left">
 
   Linguagens:<br> 
+  
   HTML5, CSS3 e JavaScript
   <p align="center">
  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="40" align="left">
@@ -16,11 +17,11 @@ Meu nome é Guilherme Augusto e estou dando os primeiros passos na área de Dese
 </p>
 
 <p align="left">
-
 </p>
 <br>
 <br>
 <p>
+
 Minhas redes sociais ⤵️
 </p>
 
